@@ -22,6 +22,6 @@ I’m a 3rd-year Computer Science student (L3). I started with HTML, but quickly
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/lina18ke-hue"><img src="https://github-readme-stats.vercel.app/api?username=lina18ke-hue&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="lina18ke-hue's GitHub stats" /></a>
+<a href="http://www.github.com/lina18ke-hue"><img src="https://github-readme-stats.vercel.app/api?username=lina18ke-hue&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=84cc16&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="lina18ke-hue's GitHub stats" /></a>
 
-<a href="https://github.com/lina18ke-hue" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lina18ke-hue&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/lina18ke-hue" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lina18ke-hue&langs_count=10&title_color=0891b2&text_color=84cc16&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
