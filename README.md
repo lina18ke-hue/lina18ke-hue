@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is kessi lina
 ===================================================================================================================================
 
-Web Developer
--------------
 
-I’m a 3rd-year Computer Science student (L3). I started with HTML, but quickly discovered my true passion in backend development. I specialize in Web Development (HTML, CSS, JS, ) Ilove learning by doing,, and building practical projects.
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [lina18ke@gmail.com](mailto:lina18ke@gmail.com)
